@@ -23,7 +23,7 @@ I am a third-year Automation and Robotics student at the AGH University of Scien
 ## 📊 GitHub Stats & Most Used Languages:
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=szklimczak&show_icons=true&theme=radical" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SzymonKlimczak&show_icons=true&theme=radical" alt="GitHub Stats"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=szklimczak&layout=compact&theme=radical" alt="Most Used Languages"/>
 </p>
 
