@@ -3,7 +3,9 @@
 I am a third-year Automation and Robotics student at the AGH University of Science and Technology in Krakow interested in all things Python & Data Science! I am always eager to expand my skill set and take on new challenges in technology, programming, and problem-solving.
 
 ## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/szymon-klimczak/)
+<a href="https://www.linkedin.com/in/szymon-klimczak/">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+</a>
 
 ## 🛠 Languages and Tools:
 
